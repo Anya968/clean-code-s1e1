@@ -6,7 +6,7 @@ body {
 }
 
 
-.aaa {
+.matrix {
     width: 500px;
     margin: 0 auto;
     display: block;
@@ -14,24 +14,24 @@ body {
 }
 
 
-.aaa img {
+.matrix img {
     width: 100%;
 }
 
 
-.aaa .more-inf {
+.matrix .more-inf {
     font-family: fantasy, cursive;
 }
 
 
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.matrix { text-align: center;
 }
 }
 
 
-.centered-main-page-element {
+.item-box {
     display: block;
     width: 500px;
     margin: 0 auto 0;
